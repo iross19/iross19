@@ -11,7 +11,9 @@
 - [IT Specialist - Networking](https://www.credly.com/badges/1eabec7f-4979-4e01-8b86-c76d1789f0b9/public_url)
 - [IT Specialist - Network Security](https://www.credly.com/badges/31af8381-6ad7-421b-b8cf-937122681a9d/public_url)
 - [MTA: Mobility and Device Fundamentals](https://www.credly.com/badges/706573c2-4a04-4e40-8fc1-f84103c8854d/public_url)
-- [MOS: Word, Powerpoint, Excel, Outlook]
+- MTA: Windows OS Fundamentals
+- MTA: Security Funamantals
+- MOS: Word, Powerpoint, Excel, Outlook
 
 ## <h3> Contact Information </h3>
 📫 How to reach me
