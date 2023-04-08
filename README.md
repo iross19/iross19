@@ -10,3 +10,7 @@
 - ### 5. MTA: Windows OS
 - ### 6. IT Technical Support Specialist
 
+### 1. CompTIA Security+
+An industry-standard certification that validates your baseline skills to perform core security functions and pursue an IT security career.
+- [Certificate](https://www.yourcertificateurl.com/comptia_security_plus)
+- [Official Site](https://www.comptia.org/certifications/security)
