@@ -18,5 +18,5 @@
 ## <h3> Contact Information </h3>
 📫 How to reach me
 
-- LinkedIn: [Iwin Ross](https://www.linkedin.com/in/iwinross/)
+- LinkedIn: [Iwin Ross](https://www.linkedin.com/in/iwin-ross-42078b144/)
 - Email: iwinross@hotmail.com
